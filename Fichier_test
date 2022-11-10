@@ -1,0 +1,6 @@
+# Ceci est un ficher pour la démonstration de la MC streamlit/git de JUIN22 CDS 
+
+import pandas as pd
+import seaborn as sns
+
+df = pd.read_csv('titanic.csv')
